@@ -14,7 +14,7 @@ This repository contains a simple yet fully functional Tic-Tac-Toe game develope
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [repository URL]
+    git clone https://github.com/rafaytariq-dev/Tic-Tac-Toe-Game-using-C-Hash.git
     ```
 2.  **Open in Visual Studio:** Open the `.sln` file using Microsoft Visual Studio.
 3.  **Build and Run:** Build the project and run the executable.
